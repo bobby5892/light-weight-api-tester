@@ -7,4 +7,10 @@
 >Intall Babel-cli first
 >> npm install -g @babel/cli
 >> npm install -g @babel/core
+>>npm update
 
+# To run after install
+>npm start
+
+# Edit test.js and do your assertions 
+> dont forget.. you can console.log the response if you want to look at it while quickly writing tests.
